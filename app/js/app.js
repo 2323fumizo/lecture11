@@ -1,4 +1,4 @@
-var SERVER_NAME = "";
+var SERVER_NAME = "blueij2trywm.mlkcca.com";
 var DATA_STORE_NAME = "messages";
 
 var server;
